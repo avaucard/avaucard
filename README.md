@@ -2,14 +2,14 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW1qNGFreDQ2bzJzdDZzcDZvMmRod3puaHBxajUyeTFjamZjdDFvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Oj25fisQ3zhukVWY96/giphy.gif" width="100"/>
 
 <div id="badges" style="margin-top: 16px">
-    <a href="https://www.linkedin.com/in/adrien-vaucard/">
+    <a href="https://www.linkedin.com/in/adrien-vaucard/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="#">
-        <img src="https://img.shields.io/badge/website-%31DE91?style=flat&logo=About.me&logoColor=white" alt="Dev.to Badge"/>
+        <img src="https://img.shields.io/badge/website-%31DE91?style=flat&logo=About.me&logoColor=white" target="_blank" alt="Dev.to Badge"/>
     </a>
     <a href="https://codepen.com">
-        <img src="https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white" alt="Twitter Badge"/>
+        <img src="https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white" target="_blank" alt="Twitter Badge"/>
     </a>
 </div>
 </div>
