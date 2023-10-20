@@ -20,7 +20,7 @@
 
 I'm a Full Stack Developer based in <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> France. Privacy and OSS enthusiast. I love building tools that nobody asked for.
 
-> *Ethic and quality over magic and quantity*
+> *Ethic and quality rather than magic and quantity*
 
 ### Daily Tools
 
